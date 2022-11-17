@@ -13,4 +13,5 @@
   <a href = "mailto:roh.amelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigooo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/roodriiigooo" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+   <a href="https://www.hackerrank.com/rodrigomelo" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%230077B5?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a> 
 </div>

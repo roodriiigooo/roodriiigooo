@@ -3,7 +3,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Megamamute**
-- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt` and a lot more..
+- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt`, `.git` and a lot more..
 - 🌱 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
 - 📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter

@@ -1,4 +1,15 @@
+### Hi there 👋
+#### I'm a Full-Stack Developer working in Londrina, Brazil.
+##### BIO
 
+- 🏢 I'm currently working at **Megamamute**
+- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt` and a lot more..
+- 🌱 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
+- 💬 Ping me about whatever you want to talk about
+- 📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+
+#
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=000000" />
@@ -8,8 +19,10 @@
 </div>
 
 # 
+#### 
 <div align="center">
 <!--CONTATOS -->
+	You can learn more about me here:<br><br>
   <a href="https://www.instagram.com/roodriiigooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:roh.amelo@gmail.com?subject=[GitHub]%20🔥%20Entrando%20em%20contato&body=Ol%C3%A1%20Rodrigo%21%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20depois%20de%20ver%20seu%20Github%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rodrigooo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

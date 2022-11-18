@@ -34,7 +34,7 @@
 </div>
 
 #
-<div align="center">... or leave a comment:</div> <br>
+<div align="center">... or leave a comment: <br><br>
 
 
 <!-- Guestbook -->
@@ -46,3 +46,5 @@
 | <a href="https://github.com/sawradip"><img width="24" src="https://avatars.githubusercontent.com/u/67541368?s=24&u=8146d9eb98acb4d1cadd9e7a094db90c45a7952f&v=4" alt="sawradip" /> sawradip</a> |11/17/2022, 12:56:26 PM|Awesome Feature.|
 | <a href="https://github.com/spuqe"><img width="24" src="https://avatars.githubusercontent.com/u/47760072?s=24&u=7990b91f2b11370d5217566feed0da0c57112d68&v=4" alt="spuqe" /> spuqe</a> |11/10/2022, 9:51:54 PM|Dope!|
 <!-- /Guestbook -->
+
+</div>

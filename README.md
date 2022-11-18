@@ -47,4 +47,11 @@
 | <a href="https://github.com/spuqe"><img width="24" src="https://avatars.githubusercontent.com/u/47760072?s=24&u=7990b91f2b11370d5217566feed0da0c57112d68&v=4" alt="spuqe" /> spuqe</a> |11/10/2022, 9:51:54 PM|Dope!|
 <!-- /Guestbook -->
 
+<br><br>	
+#
+
+<br><br>	
+See ya! 👋
 </div>
+
+

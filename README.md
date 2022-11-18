@@ -1,3 +1,4 @@
+#
 ### Hi there 👋
 #### I'm a Full-Stack Developer working in Londrina, Brazil.
 ##### BIO
@@ -31,3 +32,17 @@
   <a href="https://www.hackerrank.com/rodrigomelo" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%eab676?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a> 
   <a href="https://rodrigo.londrina.br" target="_blank"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank"></a> 
 </div>
+
+#
+<div align="center">... or leave a comment:</div> <br>
+
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/roodriiigooo"><img width="24" src="https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4" alt="roodriiigooo" /> roodriiigooo</a> |11/18/2022, 1:08:22 PM|Awesome!|
+| <a href="https://github.com/billythekid"><img width="24" src="https://avatars.githubusercontent.com/u/330170?s=24&u=e40264e680ef595121dae06bdc1dea1652204bd0&v=4" alt="billythekid" /> billythekid</a> |11/18/2022, 12:11:24 PM|This is an excellent profile. Instantly took me to 2002. Bravo! 🤠|
+| <a href="https://github.com/jackson88davis"><img width="24" src="https://avatars.githubusercontent.com/u/115843836?s=24&v=4" alt="jackson88davis" /> jackson88davis</a> |11/17/2022, 11:24:50 PM|Nice Profile!|
+| <a href="https://github.com/sawradip"><img width="24" src="https://avatars.githubusercontent.com/u/67541368?s=24&u=8146d9eb98acb4d1cadd9e7a094db90c45a7952f&v=4" alt="sawradip" /> sawradip</a> |11/17/2022, 12:56:26 PM|Awesome Feature.|
+| <a href="https://github.com/spuqe"><img width="24" src="https://avatars.githubusercontent.com/u/47760072?s=24&u=7990b91f2b11370d5217566feed0da0c57112d68&v=4" alt="spuqe" /> spuqe</a> |11/10/2022, 9:51:54 PM|Dope!|
+<!-- /Guestbook -->

@@ -36,7 +36,7 @@
 #
 <div align="center">... or leave a comment: 
 	
-([🖊️ here](https://github.com/openscript/openscript/issues/1#issuecomment-new))
+([🖊️ here](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new))
 	
 <br>
 

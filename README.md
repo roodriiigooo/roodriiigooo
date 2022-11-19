@@ -3,11 +3,11 @@
 ![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
 
 ### Hi there 👋
-#### I'm a Full-Stack Developer working in Paraná, Brazil.
+#### I'm a Full-Stack Developer who works in Paraná, Brazil.
 ##### BIO
 
 - 👩🏻‍💻 I'm currently working at **Megamamute**
-- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt`, `.git`, `.psd` and more a lot!
+- ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt`, `.git`, `.psd` and a lot more!
 - 🌱 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
 - 📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter

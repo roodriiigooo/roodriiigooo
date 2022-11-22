@@ -8,16 +8,16 @@
 
 - 👩🏻‍💻 I'm currently working at **Megamamute**
 - ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt`, `.git`, `.psd` and a lot more!
-- 🌱 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
+- 🧙 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
 - 📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🎬 Facts about me: I'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
 - 💬 Ping me! Lets talk! 
 
 #
 
 <div align="center">  <br>
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
-  	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />

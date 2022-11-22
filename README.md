@@ -13,16 +13,6 @@
 - 🎬 Facts about me: I'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
 - 💬 Ping me! Lets talk! 
 
-#
-
-<div align="center">  <br>
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
 # 
 #### 
 <div align="center">
@@ -38,6 +28,18 @@
 	  
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
+
+
+#
+
+<div align="center">  <br>
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
 
 #
 <div align="center">... or leave a comment: 

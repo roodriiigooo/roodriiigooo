@@ -14,7 +14,6 @@
 - 🎬 Facts about me: I like tech, games, take things apart and i'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
 - 💬 Ping me! Lets talk! 
 
-
 # 
 #### 
 <div align="center">

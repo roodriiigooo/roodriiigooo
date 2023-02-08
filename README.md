@@ -62,7 +62,6 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-|[![roodriiigooo](https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4)<br />roodriiigooo](https://github.com/roodriiigooo)|2/8/2023, 5:36:54 PM|Só mais um teste|
 |[![roodriiigooo](https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4)<br />roodriiigooo](https://github.com/roodriiigooo)|11/19/2022, 9:15:25 PM|I'm happy to see my guestbook is spreading.&lt;br /&gt;<br />Awesome Idea! Thanks a lot for let me use 😁😁|
 |[![openscript](https://avatars.githubusercontent.com/u/1105080?s=24&u=0a437e6a26bc6d13cc1360e744269ae2365e0927&v=4)<br />openscript](https://github.com/openscript)|11/19/2022, 9:28:28 AM|I'm happy to see my guestbook is spreading.|
 |[![roodriiigooo](https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4)<br />roodriiigooo](https://github.com/roodriiigooo)|11/18/2022, 11:46:59 PM|Oh yeah!!|

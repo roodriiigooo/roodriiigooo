@@ -16,9 +16,15 @@
 
 # 
 #### 
+
+<div align="center">
+	
+#### You can learn more about me
+	
+</div>
+
 <div align="center">
 <!--CONTATOS -->
-	You can learn more about me<br><br>
 	<a href="https://www.linkedin.com/in/rodrigooo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Rodrigo's Linkedin" target="_blank"></a>
     	<a href="mailto:roh.amelo@gmail.com?subject=[GitHub]%20🔥%20Entrando%20em%20contato&body=Ol%C3%A1%20Rodrigo%21%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20depois%20de%20ver%20seu%20Github%20para%20..."><img  alt="Rodrigo's E-Mail" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 	<a href="https://www.instagram.com/roodriiigooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
@@ -30,7 +36,8 @@
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
 	
 <a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
-	
+
+<!--/CONTATOS -->
 </div>
 
 
@@ -47,10 +54,10 @@
 
 #
 <br>
+<div align="center">
 
-### ... or leave a comment ([💌 here](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new))
-	
 
+#### ... or leave a comment ([💌 here](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new))
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -61,12 +68,16 @@
 |[![roodriiigooo](https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4)<br />roodriiigooo](https://github.com/roodriiigooo)|11/18/2022, 11:46:59 PM|Oh yeah!!|
 <!-- /Guestbook -->
 
+</div>
 <br><br>	
+
+
 #
 
 <br><br>
 
+<div align="center">
+	
 ### See ya! 👋
-	  
 
-
+</div>

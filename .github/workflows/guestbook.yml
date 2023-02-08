@@ -2,6 +2,7 @@
 
 
 on:
+  workflow_dispatch:
   issue_comment:
     types: [created, edited, deleted]
 
@@ -20,12 +21,10 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const truncateString = (str, num) => str.length > num ? str.slice(0, num) + "..." : str;
-
             const query = `query($owner:String!, $name:String!, $issue_number:Int!) {
               repository(owner:$owner, name:$name){
                 issue(number:$issue_number) {
-                  comments(first:5,orderBy:{direction:DESC, field:UPDATED_AT}) {
+                  comments(first:10,orderBy:{direction:DESC, field:UPDATED_AT}) {
                     nodes {
                       author {
                         avatarUrl(size: 24)
@@ -44,13 +43,11 @@ jobs:
               name: context.repo.repo,
               issue_number: context.issue.number
             }
-            
             const result = await github.graphql(query, variables)
             const renderComments = (comments) => {
               return comments.reduce((prev, curr) => {
-                let text = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;');
-                text = truncateString(text, 125);
-                return `${prev}| <a href="${curr.author.url}"><img width="24" src="${curr.author.avatarUrl}" alt="${curr.author.login}" /> ${curr.author.login}</a> |${new Date(curr.updatedAt).toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' })}|${text}|\n`;
+                const sanitizedText = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;').replace('<', '&lt;').replace('>', '&gt;').replace('[', '&#91;');
+                return `${prev}|[![${curr.author.login}](${curr.author.avatarUrl})<br />${curr.author.login}](${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
               }, "| Name | Date | Message |\n|---|---|---|\n");
             };
             const fileSystem = require('fs');

@@ -9,7 +9,7 @@
  {
  	public const string Name = "Rodrigo A. Melo";
 	public const string From = "Paraná/BR";
-	public List<string> Knowledge = new List<string>() { "Development", "Data Science", "Infosec" };
+	public List<string> Interests = new List<string>() { "Development", "Data Science", "Infosec" };
  }
 ```
 ##### BIO

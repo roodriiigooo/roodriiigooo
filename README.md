@@ -4,6 +4,14 @@
 
 ### Hi there 👋
 #### I'm a Full-Stack Developer who works in Paraná, Brazil. 
+```csharp
+ public class AboutMe
+ {
+ 	public const string Name = "Rodrigo A. Melo";
+	public const string From = "Paraná/BR";
+	public List<string> Knowledge = new List<string>() { "Development", "Data Science", "Infosec" };
+ }
+```
 ##### BIO
 
   

@@ -31,7 +31,7 @@
 
 **Software Engineer** \
 [**MegaMamute**](https://www.linkedin.com/company/megamamute.com.br) • Full-Time \
-Technologies/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, `Razor`, `Linq` and others\
+Techs/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, `Razor`, `Linq` and others\
 Featured Projects: PRIVATE
 <br/>
 
@@ -39,7 +39,7 @@ Featured Projects: PRIVATE
 
 **Software Engineer** \
 [**Instituto Biossistemico**](https://www.linkedin.com/company/instituto-biosistemico/) • Full-Time \
-Technologies/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `SQL` and others\
+Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `SQL` and others\
 Featured Projects: PRIVATE
 <br/>
 
@@ -47,7 +47,7 @@ Featured Projects: PRIVATE
 
 **Web Engineer** \
 [**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \
-Technologies/Frameworks:  `.NET`, `SQL`, `API REST`, `Web Apps`, `MVC`, `Razor`, `ASP.Net`, `Linq` and others\
+Techs/Frameworks:  `.NET`, `SQL`, `API REST`, `Web Apps`, `MVC`, `Razor`, `ASP.Net`, `Linq` and others\
 Featured Projects: PRIVATE
 <br/>
 <br/>

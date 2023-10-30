@@ -25,6 +25,33 @@
 # 
 #### 
 
+##### Latest XP
+
+[<img align="left" height="94px" width="94px" alt="Megamamute" src="https://media.licdn.com/dms/image/C4D0BAQG_JMRqGl1OLg/company-logo_200_200/0/1648590191879?e=1706745600&v=beta&t=ke9-hBV-7UKHtbh_PKLzdEjJY9dsrXInvCP2y9UB-bw"/>](https://www.linkedin.com/company/megamamute.com.br)
+
+**Software Engineer** \
+[**MegaMamute**](https://www.linkedin.com/company/megamamute.com.br) • Full-Time \
+Technologies/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, `Razor`, `Linq` and others\
+Featured Projects: PRIVATE
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/C4E0BAQEGII9YTAedzQ/company-logo_200_200/0/1583263696462?e=1706745600&v=beta&t=EkoQ_TIfk23NqaL04O6wkTCE0G8oUwe9hNsoUbMGkIk"/>](https://www.linkedin.com/company/instituto-biosistemico/)
+
+**Software Engineer** \
+[**Instituto Biossistemico**](https://www.linkedin.com/company/instituto-biosistemico/) • Full-Time \
+Technologies/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `SQL` and others\
+Featured Projects: PRIVATE
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1519650044545?e=1706745600&v=beta&t=1BunEhRkLLsVUE7FMtR8DrkURZDdE3UH3yoAgaA8zxs"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
+
+**Web Engineer** \
+[**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \
+Technologies/Frameworks:  `.NET`, `SQL`, `API REST`, `Web Apps`, `MVC`, `Razor`, `ASP.Net`, `Linq` and others\
+Featured Projects: PRIVATE
+<br/>
+<br/>
+
 <div align="center">
 	
 #### You can learn more about me
@@ -57,7 +84,7 @@
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<!--/<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" /> -->
 </div>
 
 

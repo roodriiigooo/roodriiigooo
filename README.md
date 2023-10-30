@@ -100,7 +100,9 @@ Featured Projects: PRIVATE
 <div align="center">
 
 
-#### ... or leave a comment ([💌 here](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new))
+#### [![leave a comment](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20leave%20a%20comment%20here-red?style=flat-round)](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new)
+
+Latest messages:
 
 <!-- Guestbook -->
 | Name | Date | Message |

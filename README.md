@@ -58,7 +58,8 @@ Featured Projects: PRIVATE
 	
 </div>
 
-<div align="center"><a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
+<div align="center"><a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank">
+	<img src="https://img.shields.io/badge/-Downloading%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
 <br>
 <br>
 	or

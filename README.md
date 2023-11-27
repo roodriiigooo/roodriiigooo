@@ -1,9 +1,12 @@
 #
 
-![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
+<!-- ![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png) -->
 
 ### Hi there 👋 
 #### I'm a brazilian Full-Stack Developer 
+
+<img height="150px" width="150px" align="left" src="https://rodrigo.londrina.br/images/rodrigo_profile_picture.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
 ```csharp
  public class Rodrigo
  {

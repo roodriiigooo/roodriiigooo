@@ -94,29 +94,33 @@ Featured Projects: PRIVATE
 
 
 <!--/CONTATOS -->
+
 </div>
 
-#
 
+
+<!--
 <div align="center">  <br>
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodriiigooo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roodriiigooo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo's github stats" /> 
 </div>
 <div align="center">
-	<!--/<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" /> -->
-</div>
+-->
+<!--</div>
 
 
 <br><br>	
+-->
 
 
 
-#
 <br>
 <div align="center">
 
+or
 
-#### [![leave a comment](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20leave%20a%20comment%20here-red?style=flat-round)](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new)
+
+#### [![leave a comment](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20leave%20a%20message%20here-red?style=flat-round)](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new)
 
 Latest messages:
 

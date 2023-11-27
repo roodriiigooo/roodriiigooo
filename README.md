@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
 
 ### Hi there 👋 
-#### I'm a brazilian Full-Stack Developer 
+#### I'm a brazilian Senior Full-Stack Developer, Business and Cybersecurity Analyst
 
 <!-- <img height="150px" width="150px" align="left" src="https://rodrigo.londrina.br/images/rodrigo_profile_picture.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> -->
 
@@ -12,7 +12,7 @@
  {
  	public const string Name = "Rodrigo A. Melo";
 	public const string From = "Paraná/BR";
-	public List<string> Interests = new List<string>() { "Development", "Data Science", "Infosec" };
+	public List<string> Interests = new List<string>() { "Development", "Data Science", "Cybersec" };
  }
 ```
 ##### BIO

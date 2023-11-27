@@ -19,10 +19,20 @@
 
  
  👩🏻‍💻 I'm currently working at **Megamamute**
+
+
  ⚙️ I use: `.cs`, `.json`, `.edmx`, `.js`, `.xhtml`, `.css`, `.sql`, `.ts`, `.tt`, `.git`, `.psd` and a lot more!
+
+
  🧙 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
+
+
  📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
+
+
  🎬 Facts about me: I like tech, games, take things apart and i'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
+
+
  💬 Ping me! Lets talk! 
 
 # 

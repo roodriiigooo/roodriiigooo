@@ -52,6 +52,19 @@ Featured Projects: PRIVATE
 <br/>
 <br/>
 
+
+#
+
+##### Latest Projects
+
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD"><img width="100%" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474.jpg?raw=true"></a><br><sup><strong>Project:</strong> PWNAGOTCHI v1.5.5 - Custom Faces Mod (⌐■_■)</sup>
+    <td width="50%"><a href="https://rodrigo.londrina.br"><img width="100%" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474_2.jpg?raw=true"></a><br><sup><strong>Website:</strong> rodrigo.londrina.br (Easter egg inside!)</sup></td>
+  </tr>
+</table>
+
 <div align="center">
 	
 #### You can learn more about me

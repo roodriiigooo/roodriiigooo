@@ -60,8 +60,8 @@ Featured Projects: PRIVATE
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD" target="_blank"><img width="100%" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474.jpg?raw=true"></a><br><sup><strong>Project:</strong> PWNAGOTCHI v1.5.5 - Custom Faces Mod (⌐■_■)</sup>
-    <td width="50%"><a target="_blank" href="https://rodrigo.londrina.br"><img width="100%" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474_2.jpg?raw=true"></a><br><sup><strong>Website:</strong> rodrigo.londrina.br (Easter egg inside!)</sup></td>
+    <td width="50%"><a href="https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD" target="_blank"><img width="100%" target="_blank" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474.jpg?raw=true"></a><br><sup><strong>Project:</strong> PWNAGOTCHI v1.5.5 - Custom Faces Mod (⌐■_■)</sup>
+    <td width="50%"><a href="https://rodrigo.londrina.br" target="_blank"><img width="100%" target="_blank" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474_2.jpg?raw=true"></a><br><sup><strong>Website:</strong> rodrigo.londrina.br (Easter egg inside!)</sup></td>
   </tr>
 </table>
 

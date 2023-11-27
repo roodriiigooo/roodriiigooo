@@ -120,5 +120,9 @@ Latest messages:
 ### See ya! 👋
 
 	
-<br><br>	
+<br><br>
+
+<img src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/dino.gif?raw=true"/>
+
+
 </div>

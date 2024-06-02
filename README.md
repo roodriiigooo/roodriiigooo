@@ -35,7 +35,7 @@
 
 ##### Latest XP
 
-[<img align="left" height="94px" width="94px" alt="Megamamute" src="https://media.licdn.com/dms/image/C4D0BAQG_JMRqGl1OLg/company-logo_200_200/0/1648590192348/megamamutecombr_logo?e=1715817600&v=beta&t=Ol2cF5iOulEnMj_p7Oseh_J94WxtPtN_yHCvkxomecM"/>](https://www.linkedin.com/company/megamamute.com.br)
+[<img align="left" height="94px" width="94px" alt="Megamamute" src="https://media.licdn.com/dms/image/C4D0BAQG_JMRqGl1OLg/company-logo_100_100/0/1648590192348/megamamutecombr_logo?e=1725494400&v=beta&t=EK015GhP2u_DEQRWrcDjBsqKW5MUmNGkgfGzkAFvVX4"/>](https://www.linkedin.com/company/megamamute.com.br)
 
 **Software Engineer** \
 [**MegaMamute**](https://www.linkedin.com/company/megamamute.com.br) • Full-Time \

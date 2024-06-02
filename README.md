@@ -43,7 +43,7 @@ Techs/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, 
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/C4E0BAQEGII9YTAedzQ/company-logo_200_200/0/1630605749211/instituto_biosistemico_logo?e=1715817600&v=beta&t=HX-S31OeIZMrekZH-dm5vJKyoLrZKACinSYlTDpWTxk"/>](https://www.linkedin.com/company/instituto-biosistemico/)
+[<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/C4E0BAQEGII9YTAedzQ/company-logo_100_100/0/1630605749211/instituto_biosistemico_logo?e=1725494400&v=beta&t=ODFZzylRdjSnEAxWQnOn5oMkSBzHwahBTOOcIJ39nMc"/>](https://www.linkedin.com/company/instituto-biosistemico/)
 
 **Software Engineer** \
 [**Instituto Biossistemico**](https://www.linkedin.com/company/instituto-biosistemico/) • Full-Time \
@@ -51,7 +51,7 @@ Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `S
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1631306107389?e=1715817600&v=beta&t=c1EaYs4LgAK7ikizpdT0o7mtUvDeHKa0dc5-8OQqqL4"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
+[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_100_100/0/1631306107389?e=1725494400&v=beta&t=-nola7iPrftzHO3cA0MhUSGVqF-B95jx-T9cn63ZLq0"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
 
 **Web Engineer** \
 [**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \

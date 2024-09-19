@@ -35,15 +35,15 @@
 
 ##### Latest XP
 
-[<img align="left" height="94px" width="94px" alt="Megamamute" src="https://media.licdn.com/dms/image/C4D0BAQG_JMRqGl1OLg/company-logo_100_100/0/1648590192348/megamamutecombr_logo?e=1725494400&v=beta&t=EK015GhP2u_DEQRWrcDjBsqKW5MUmNGkgfGzkAFvVX4"/>](https://www.linkedin.com/company/megamamute.com.br)
+[<img align="left" height="94px" width="94px" alt="Megamamute" src="https://media.licdn.com/dms/image/v2/C4D0BAQG_JMRqGl1OLg/company-logo_200_200/company-logo_200_200/0/1648590192348/megamamutecombr_logo?e=2147483647&v=beta&t=oURSoZxRuYD5KsVD44AdVpcCETbg3WYplxIlffecpyw"/>](https://www.linkedin.com/company/megamamute.com.br)
 
 **Software Engineer** \
-[**MegaMamute**](https://www.linkedin.com/company/megamamute.com.br) • Full-Time \
+[**Megamamute**](https://www.linkedin.com/company/megamamute.com.br) • Full-Time \
 Techs/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, `Razor`, `Linq` and others\
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/C4E0BAQEGII9YTAedzQ/company-logo_100_100/0/1630605749211/instituto_biosistemico_logo?e=1725494400&v=beta&t=ODFZzylRdjSnEAxWQnOn5oMkSBzHwahBTOOcIJ39nMc"/>](https://www.linkedin.com/company/instituto-biosistemico/)
+[<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/v2/C4E0BAQEGII9YTAedzQ/company-logo_200_200/company-logo_200_200/0/1630605749211/instituto_biosistemico_logo?e=2147483647&v=beta&t=FVJY6oMyoeJlYYhWYZluQ3-SVdH037BpMROGdpZ6kOw"/>](https://www.linkedin.com/company/instituto-biosistemico/)
 
 **Software Engineer** \
 [**Instituto Biossistemico**](https://www.linkedin.com/company/instituto-biosistemico/) • Full-Time \
@@ -51,7 +51,7 @@ Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `S
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_100_100/0/1631306107389?e=1725494400&v=beta&t=-nola7iPrftzHO3cA0MhUSGVqF-B95jx-T9cn63ZLq0"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
+[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/v2/C4D0BAQHoVdTky9-yiw/company-logo_200_200/company-logo_200_200/0/1631306107389?e=2147483647&v=beta&t=EtqTeMlXFBZjGJsTyalAzNIfQrzRY_1cyhsH8E_RlLA"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
 
 **Web Engineer** \
 [**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \

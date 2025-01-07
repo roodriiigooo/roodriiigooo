@@ -24,7 +24,7 @@
 
  🧙 Learning all about **Open Source**, **CyberSec** and **Business Intelligence** 
 
- 📫 Reach me: [linkedin.com/rodrigooo](https://linkedin.com/in/rodrigooo)
+ 📫 Reach me: [linkedin.com/roodriiigooo](https://www.linkedin.com/in/roodriiigooo/)
 
  🎬 Facts about me: I like tech, games, take things apart and i'm a huge fan of The Lord of the Rings and Harry Potter ⚡️
 

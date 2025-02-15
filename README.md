@@ -71,6 +71,10 @@ Featured Projects: PRIVATE
     <td width="50%"><a href="https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD" target="_blank"><img width="100%" target="_blank" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474.jpg?raw=true"></a><br><sup><strong>Project:</strong> PWNAGOTCHI - Custom Faces Mod (⌐■_■)</sup>
     <td width="50%"><a href="https://rodrigo.londrina.br" target="_blank"><img width="100%" target="_blank" src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/1698607842474_2.jpg?raw=true"></a><br><sup><strong>Website:</strong> rodrigo.londrina.br (Easter egg inside!)</sup></td>
   </tr>
+<tr>
+<td width="50%"><a href="https://www.tecmundo.com.br/internet/402496-programador-brasileiro-roda-doom-classico-dentro-do-deepseek.htm" target="_blank"><img width="100%" target="_blank" src="https://tm.ibxk.com.br/2025/02/12/12141125416182.jpg?ims=1280x480"></a><br><sup><strong>Article:</strong> Programador brasileiro roda Doom clássico dentro do DeepSeek</sup></td>    
+<td width="50%"><a href="https://github.com/roodriiigooo/NAO_PERTURBE" target="_blank"><img width="100%" target="_blank" src="https://creatorspace.imgix.net/users/cm5z90w7901ebi601bqu49nt7/NSUt75wHrejLFse0-IMG_20250116_090612.jpg?w=750&h=750"></a><br><sup><strong>Article:</strong> ESTUDO - Interrompendo Comunicações Bluetooth Utilizando um Dispositivo de Baixo Custo</sup></td>
+</tr>
 </table>
 
 <div align="center">

@@ -29,7 +29,7 @@
 Professional with over 8 years of experience in full stack development, data science, and information security. Specialist in creating and optimizing integrations for e-commerce and marketplaces, working on the development of scalable and secure solutions. Strong background in DevOps and Cloud Computing (AWS). Passionate about technology, continuous learning, and innovation.
 
 
-## 💻 Technical Skills
+## 💻 Technical Skills - Key Competencies
 - **Languages & Frameworks**: `C#`, `.NET Core`, `ASP.NET`, `Java`, `Spring`, `Python`, `JavaScript`, `TypeScript`, `React`, `Angular`, `Node.js`
 - **Databases**: `PostgreSQL`, `MS SQL Server`, `MySQL`, `MongoDB`
 - **Cloud & DevOps**: `AWS (EC2, S3, RDS, Elastic Beanstalk)`, `Docker`, `CI/CD`, `Kubernetes`, `GitHub Actions`
@@ -48,6 +48,29 @@ Techs/Frameworks: `.NET`, `SQL`, `API REST`, `AWS`, `Azure`, `Web Apps`, `MVC`, 
 Featured Projects: PRIVATE
 <br/>
 
+<details>
+	<summary>Activities: (Click Here)</summary>
+
+ - Development and maintenance of marketplace integrations, ensuring high efficiency and scalability.
+
+- Architecture and optimization of REST APIs, implementing security and performance best practices.
+
+- CI/CD automation with GitHub Actions, ensuring continuous delivery.
+
+- Git repository management using GitFlow for efficient version control.
+
+- Detailed technical documentation of architectures and API specifications.
+
+- Implementation of scalable solutions using .NET Core, React, and AWS.
+
+- Development of performance monitoring processes and continuous improvement of the platform.
+
+
+</br>
+
+
+</details>
+
 [<img align="left" height="94px" width="94px" alt="Instituto Biosistemico" src="https://media.licdn.com/dms/image/v2/C4E0BAQEGII9YTAedzQ/company-logo_200_200/company-logo_200_200/0/1630605749211/instituto_biosistemico_logo?e=2147483647&v=beta&t=FVJY6oMyoeJlYYhWYZluQ3-SVdH037BpMROGdpZ6kOw"/>](https://www.linkedin.com/company/instituto-biosistemico/)
 
 **Software Engineer** \
@@ -56,6 +79,25 @@ Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `S
 Featured Projects: PRIVATE
 <br/>
 
+<details>
+	<summary>Activities: (Click Here)</summary>
+
+ - Web application development with Java (Spring Boot, JSF), Angular, and React.
+
+- Migration of legacy systems to modern technologies, reducing operational costs.
+
+- Creation of dashboards and interactive reports for data analysis.
+
+- Implementation of security standards and best practices in critical applications.
+
+- Collaboration with multidisciplinary teams to optimize internal processes and workflows.
+
+
+</br>
+
+
+</details>
+
 [<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/v2/C4D0BAQHoVdTky9-yiw/company-logo_200_200/company-logo_200_200/0/1631306107389?e=2147483647&v=beta&t=EtqTeMlXFBZjGJsTyalAzNIfQrzRY_1cyhsH8E_RlLA"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
 
 **Web Engineer** \
@@ -63,10 +105,21 @@ Featured Projects: PRIVATE
 Techs/Frameworks:  `.NET`, `SQL`, `API REST`, `Web Apps`, `MVC`, `Razor`, `ASP.Net`, `Linq` and others\
 Featured Projects: PRIVATE
 <br/>
-<br/>
+
+<details>
+	<summary>Activities: (Click Here)</summary>
+
+ - Development of SEO-optimized, high-performance web systems.
+
+- Implementation of digital marketing strategies through automation and data analysis.
+
+- Maintenance and optimization of existing projects.
 
 
+</br>
 
+
+</details>
 
 
 ## 🎓 Education

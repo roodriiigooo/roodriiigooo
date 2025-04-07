@@ -49,7 +49,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities: (Click Here)</summary>
+	<summary>Activities/Problems solved: (Click Here)</summary>
 
  - Development and maintenance of marketplace integrations, ensuring high efficiency and scalability.
 
@@ -80,7 +80,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities: (Click Here)</summary>
+	<summary>Activities/Problems solved: (Click Here)</summary>
 
  - Web application development with Java (Spring Boot, JSF), Angular, and React.
 
@@ -107,7 +107,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities: (Click Here)</summary>
+	<summary>Activities/Problems solved: (Click Here)</summary>
 
  - Development of SEO-optimized, high-performance web systems.
 
@@ -147,7 +147,7 @@ Featured Projects: PRIVATE
 - Trained teams on security best practices.
 
 
-## Latest Random Projects
+## Projects +
 
 
 <table>

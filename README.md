@@ -49,7 +49,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities/Problems solved: (Click Here)</summary>
+	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
  - Development and maintenance of marketplace integrations, ensuring high efficiency and scalability.
 
@@ -80,7 +80,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities/Problems solved: (Click Here)</summary>
+	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
  - Web application development with Java (Spring Boot, JSF), Angular, and React.
 
@@ -107,7 +107,7 @@ Featured Projects: PRIVATE
 <br/>
 
 <details>
-	<summary>Activities/Problems solved: (Click Here)</summary>
+	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
  - Development of SEO-optimized, high-performance web systems.
 

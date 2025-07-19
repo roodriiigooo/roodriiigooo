@@ -175,8 +175,9 @@ Latest messages:
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/Zer0G0ld"><img width="24" src="https://avatars.githubusercontent.com/u/114886018?s=24&u=756caaf7e5ca39fe0671dd76774efe449f89b0b8&v=4" alt="Zer0G0ld" /> Zer0G0ld</a> |7/19/2025, 12:25:07 AM|Muito massa a ideia do guestbook, tive que deixar meu salve aqui também. Vou implementar no meu também kkkk|
 | <a href="https://github.com/roodriiigooo"><img width="24" src="https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4" alt="roodriiigooo" /> roodriiigooo</a> |11/19/2022, 9:15:25 PM|I'm happy to see my guestbook is spreading.<br /><br />Awesome Idea! Thanks a lot for let me use 😁😁|
-| <a href="https://github.com/openscript"><img width="24" src="https://avatars.githubusercontent.com/u/1105080?s=24&u=0a437e6a26bc6d13cc1360e744269ae2365e0927&v=4" alt="openscript" /> openscript</a> |11/19/2022, 9:28:28 AM|I'm happy to see my guestbook is spreading.|
+| <a href="https://github.com/openscript"><img width="24" src="https://avatars.githubusercontent.com/u/1105080?s=24&u=ebda165c92f1f174a7aef1c0defd8a0955b83b01&v=4" alt="openscript" /> openscript</a> |11/19/2022, 9:28:28 AM|I'm happy to see my guestbook is spreading.|
 | <a href="https://github.com/roodriiigooo"><img width="24" src="https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4" alt="roodriiigooo" /> roodriiigooo</a> |11/18/2022, 11:46:59 PM|Oh yeah!!|
 <!-- /Guestbook -->
 

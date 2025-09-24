@@ -31,10 +31,14 @@ Professional with over 8 years of experience in full stack development, data sci
 
 ## 💻 Technical Skills - Key Competencies
 - **Languages & Frameworks**: `C#`, `.NET Core`, `ASP.NET`, `Java`, `Spring`, `Python`, `JavaScript`, `TypeScript`, `React`, `Angular`, `Node.js`
-- **Databases**: `PostgreSQL`, `MS SQL Server`, `MySQL`, `MongoDB`
-- **Cloud & DevOps**: `AWS (EC2, S3, RDS, Elastic Beanstalk)`, `Docker`, `CI/CD`, `Kubernetes`, `GitHub Actions`
+- **Messageria**: `RabbitMQ`, `MassTransit`
+- **Task Scheduler**: `Hangfire`
+- **Databases**: `PostgreSQL`, `MS SQL Server`, `MySQL`, `MongoDB`, `Migrations`, `Entity Framework e Core`, `Dapper`
+- **Cloud & DevOps**: `AWS (SQS, EC2, S3, RDS, IAM, Elastic Beanstalk)`, `Docker`, `CI/CD`, `Kubernetes`, `GitHub Actions`
 - **Cybersecurity**: `Offensive and Defensive Security`, `Pentesting`, `Blue Team`, `Vulnerability Analysis`
+- **Design Patterns**: `Microservices`, `Hexagonal (Ports & Adapters)`, `DDD`, `CQRS`
 - **Methodologies**: `SOLID`, `Design Patterns`, `SCRUM`, `Agile`
+- **IA**: `Prompt Engeenering`, `Jailbreak Analysis`, `Context escape`, `Bad "vibe coding" analysis/fix`
 
 
 ## 💼 Professional Experience

@@ -1,6 +1,5 @@
 #
-
-![](https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png)
+![](https://github.com/user-attachments/assets/bc98fcc1-7b8d-4c2d-8d89-99e414040d30)
 
 <!-- <img height="150px" width="150px" align="left" src="https://rodrigo.londrina.br/images/rodrigo_profile_picture.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> -->
 
@@ -153,17 +152,56 @@ Featured Projects: PRIVATE
 
 ## Projects +
 
+<br/>
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD" target="_blank"><img width="100%" target="_blank" src="https://rodrigo.londrina.br/images/1698607842474.jpg"></a><br><sup><strong>Project:</strong> PWNAGOTCHI - Custom Faces Mod (⌐■_■)</sup>
-    <td width="50%"><a href="https://rodrigo.londrina.br" target="_blank"><img width="100%" target="_blank" src="https://rodrigo.londrina.br/images/1698607842474_2.jpg"></a><br><sup><strong>Website:</strong> rodrigo.londrina.br (Easter egg inside!)</sup></td>
-  </tr>
-<tr>
-<td width="50%"><a href="https://www.tecmundo.com.br/internet/402496-programador-brasileiro-roda-doom-classico-dentro-do-deepseek.htm" target="_blank"><img width="100%" target="_blank" src="https://tm.ibxk.com.br/2025/02/12/12141125416182.jpg?ims=1280x480"></a><br><sup><strong>Article:</strong> Programador brasileiro roda Doom clássico dentro do DeepSeek</sup></td>    
-<td width="50%"><a href="https://github.com/roodriiigooo/NAO_PERTURBE" target="_blank"><img width="100%" target="_blank" src="https://storage.googleapis.com/creatorspace-public/users%2Fcm5z90w7901ebi601bqu49nt7%2FNSUt75wHrejLFse0-IMG_20250116_090612.jpg?w=750&h=750"></a><br><sup><strong>Article:</strong> ESTUDO - Interrompendo Comunicações Bluetooth Utilizando um Dispositivo de Baixo Custo</sup></td>
-</tr>
-</table>
+[<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://github.com/user-attachments/assets/42073149-ec13-43ea-8a65-f8fff4d57f21"/>](https://github.com/roodriiigooo/InsurancePlatform)
+
+**InsurancePlatform** \
+[**Project**](https://github.com/roodriiigooo/InsurancePlatform) • **Techs/Frameworks**: `Microservices`, `Hexagonal Architecture`, `CQRS`, `UnitTests`, `Github Actions`, `Docker`, `AWS`, `Azure` and others. **Description**: Implementation of a simplified and robust platform based on Microservices, DDD, Hexagonal Architecture, and CQRS. This repository is written predominantly in .NET and Docker, and includes workflow examples for consuming both Azure and AWS services.\
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="PWNAGOTCHI Custom Faces Mod" src="https://rodrigo.londrina.br/images/1698607842474.jpg"/>](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD)
+
+**PWNAGOTCHI - Custom Faces Mod (⌐■_■)** \
+[**Project**](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) • **Techs/Frameworks**: `Python` and others\
+**Description**: The implementation of a modification to a project focused on cybersecurity (of Wi-Fi networks), written in Python, was widely accepted by the community and incorporated into later forks of the original project, which was discontinued.\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="rodrigo.londrina.br" src="https://rodrigo.londrina.br/images/1698607842474_2.jpg"/>](https://rodrigo.londrina.br/)
+
+**rodrigo.londrina.br** \
+[**Website**](https://rodrigo.londrina.br/) • **Techs/Frameworks**: `React`, `Javascript`, `HTML`, `css` and others\
+**Description**: A simple page, written in React and exported as a static page to be hosted on GitHub Pages, contains a hidden easter egg that goes beyond what the page initially proposes. Written primarily in React (TypeScript) and JavaScript.\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="rodrigo.londrina.br" src="https://storage.googleapis.com/creatorspace-public/users%2Fcm5z90w7901ebi601bqu49nt7%2FNSUt75wHrejLFse0-IMG_20250116_090612.jpg?w=750&h=750"/>](https://github.com/roodriiigooo/NAO_PERTURBE)
+
+**Interrupting Bluetooth Communications Using a Low-Cost Device** \
+[**STUDY**](https://github.com/roodriiigooo/NAO_PERTURBE) • **Techs/Frameworks**: `Arduino`, `C`, `C++`, and others\
+**Description**: A study titled Interrupting Bluetooth Communications Using a Low-Cost Device demonstrates the vulnerability of certain devices. This project covers everything from electronics (using Arduino and other components) to programming and the development and improvement of algorithms, making them more efficient, written in the C language.\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="My classic DOOM injector" src="https://s2-techtudo.glbimg.com/toCnwVRV3FWISWTVbxrkVN-lJow=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/m/8/yAUPwzTJW2BFGalBElQQ/doom-twitter-bot-tweet2doom-1993.jpg"/>](https://github.com/roodriiigooo/ISSO_RODA_DOOM)
+
+**To Inject DOOM** \
+[**Project**](https://github.com/roodriiigooo/ISSO_RODA_DOOM) • **Techs/Frameworks**: `Javascript`, `HTML`, `CSS`, and others\
+**Description**: Created to inject the DOOM game wherever I want.\
+<br/>
+
+
+
+
+[<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://tm.ibxk.com.br/2025/02/12/12141125416182.jpg?ims=1280x480"/>](https://www.tecmundo.com.br/internet/402496-programador-brasileiro-roda-doom-classico-dentro-do-deepseek.htm)
+
+**Brazilian programmer runs classic Doom inside DeepSeek** \
+[**Article**](https://www.tecmundo.com.br/internet/402496-programador-brasileiro-roda-doom-classico-dentro-do-deepseek.htm) • **Description**: An article written by Techmundo referencing my experiment with DeepSeek, back when it wasn’t restricted. The technique revealed a flaw at the time that no one noticed when the post was written — and it wasn’t actually about running DOOM.\
+<br/>
+
+
+<br/>
+
+
 
 
 
@@ -201,7 +239,7 @@ Latest messages:
 	
 <br><br>
 
-<img src="https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/dino.gif?raw=true"/>
+<img src="https://roodriiigooo.github.io/images/dino.gif"/>
 
 
 </div>

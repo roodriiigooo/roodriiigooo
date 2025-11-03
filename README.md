@@ -203,12 +203,18 @@ Featured Projects: PRIVATE
 
 
 
+## 💡 How can I help you?
+- Want to develop a solution for your business? I’ll help you from zero to deployment!
+- Want to start developing but don’t know where to begin? I’ll show you how!
+- Just looking for development or cybersecurity consulting? I’ll be happy to help.
+
 
 
 <br>
 <div align="center">
-<a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank">
-	<img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
+<a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
+
+or
 
 ## [![leave a comment](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20leave%20a%20message%20here-red?style=flat-round)](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new)
 
@@ -229,6 +235,8 @@ Latest messages:
 
 </div>
 <br><br>
+
+
 
 <div align="center">
 	

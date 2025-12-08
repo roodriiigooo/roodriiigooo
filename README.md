@@ -40,6 +40,7 @@ Professional with over 8 years of experience in full stack development, data sci
 - **IA**: `Prompt Engeenering`, `Jailbreak Analysis`, `Context escape`, `Bad "vibe coding" analysis/fix`
 - **Authentication**: `SSO`, `OAuth2`, `JWT`
 - **Prototyping**: `Adobe XD`, `Sketch`, `Figma`, `Canva`, `InVision`, `Marvel`, `Photoshop`, `GIMP`
+- **Modeling and Diagramming**: `Mermaid Chart`, `Astah`
 
 
 ## 💼 Professional Experience

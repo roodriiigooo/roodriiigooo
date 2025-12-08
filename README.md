@@ -29,7 +29,7 @@ Professional with over 8 years of experience in full stack development, data sci
 
 
 ## 💻 Technical Skills - Key Competencies
-- **Languages & Frameworks**: `C#`, `.NET Core`, `ASP.NET`, `Java`, `Spring`, `Python`, `JavaScript`, `TypeScript`, `React`, `Angular`, `Node.js`
+- **Languages & Frameworks**: `C#`, `.NET Core`, `ASP.NET`, `Java`, `Spring`, `Python`, `JavaScript`, `TypeScript`, `React`, `Angular`, `Node.js`, `Delphi`, `Crystal reports`, `Jasper Reports`, `C/C++`
 - **Messageria**: `RabbitMQ`, `MassTransit`
 - **Task Scheduler**: `Hangfire`
 - **Databases**: `PostgreSQL`, `MS SQL Server`, `MySQL`, `MongoDB`, `Migrations`, `Entity Framework e Core`, `Dapper`
@@ -38,6 +38,7 @@ Professional with over 8 years of experience in full stack development, data sci
 - **Design Patterns**: `Microservices`, `Hexagonal (Ports & Adapters)`, `DDD`, `CQRS`
 - **Methodologies**: `SOLID`, `Design Patterns`, `SCRUM`, `Agile`
 - **IA**: `Prompt Engeenering`, `Jailbreak Analysis`, `Context escape`, `Bad "vibe coding" analysis/fix`
+- **Authentication**: `SSO`, `OAuth2`, `JWT`
 
 
 ## 💼 Professional Experience

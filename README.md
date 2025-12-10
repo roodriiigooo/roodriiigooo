@@ -166,7 +166,8 @@ Featured Projects: PRIVATE
 
 
 **GITLEAK EXPLORER**  \
-[**Tool/Project**](https://github.com/roodriiigooo/GITLEAK_EXPLORER) • **Techs/Frameworks**: `Python`. **Description**: An all-in-one tool designed for security researchers and system administrators. It allows you to identify, download, reconstruct, and analyze artifacts from `.git` folders inadvertently exposed on web servers.\
+[**Tool/Project**](https://github.com/roodriiigooo/GITLEAK_EXPLORER) • **Techs/Frameworks**: `Python` <br> 
+**Description**: An all-in-one tool designed for security researchers and system administrators. It allows you to identify, download, reconstruct, and analyze artifacts from `.git` folders inadvertently exposed on web servers.\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://github.com/user-attachments/assets/42073149-ec13-43ea-8a65-f8fff4d57f21"/>](https://github.com/roodriiigooo/InsurancePlatform)

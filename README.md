@@ -157,6 +157,14 @@ Featured Projects: PRIVATE
 
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://private-user-images.githubusercontent.com/5695737/524078417-c5165d09-f341-450f-afcc-ab7086b4e553.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUzMzc4NTAsIm5iZiI6MTc2NTMzNzU1MCwicGF0aCI6Ii81Njk1NzM3LzUyNDA3ODQxNy1jNTE2NWQwOS1mMzQxLTQ1MGYtYWZjYy1hYjcwODZiNGU1NTMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMTBUMDMzMjMwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjY5ZWE5ZTgxNDNiMDJjNWVlYzlhNDg0ODk3NDE1NDkxMjVhNzViMjg0MWU0ZjUxMDc3YmQxOTYzZGQxNjcxMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.7wLsMWxd1mZOpMrH3B_-HUKthfK5MowDU8LdAPz0gL0"/>](https://github.com/roodriiigooo/GITLEAK_EXPLORER)
+
+**GITLEAK EXPLORER**   <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER/releases/latest">
+    <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/GITLEAK_EXPLORER?style=for-the-badge&color=blue" alt="Latest Release">
+  </a> \
+[**Tool/Project**](https://github.com/roodriiigooo/GITLEAK_EXPLORER) • **Techs/Frameworks**: `Python`. **Description**: An all-in-one tool designed for security researchers and system administrators. It allows you to identify, download, reconstruct, and analyze artifacts from `.git` folders inadvertently exposed on web servers.\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://github.com/user-attachments/assets/42073149-ec13-43ea-8a65-f8fff4d57f21"/>](https://github.com/roodriiigooo/InsurancePlatform)
 
 **InsurancePlatform** \

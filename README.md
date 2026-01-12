@@ -158,15 +158,15 @@ Featured Projects: PRIVATE
 
 <br/>
 
-<a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER/releases/latest">
-    <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/GITLEAK_EXPLORER?style=for-the-badge&color=blue" alt="GITLEAK EXPLORER latest release">
-</a>
+
 <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER">
-	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://github.com/user-attachments/assets/d4bb5684-22e1-432b-9289-1624de0e3080"/>
+	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://github.com/user-attachments/assets/6708e156-e86e-4308-a24c-ade269316d31"/>
 </a>
 
 
-**GITLEAK EXPLORER**  \
+**GITLEAK EXPLORER**  <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER/releases/latest">
+    <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/GITLEAK_EXPLORER?style=for-the-badge&color=blue" alt="GITLEAK EXPLORER latest release">
+</a> \
 [**Tool/Project**](https://github.com/roodriiigooo/GITLEAK_EXPLORER) • **Techs/Frameworks**: `Python` <br> 
 **Description**: An all-in-one tool designed for security researchers and system administrators. It allows you to identify, download, reconstruct, and analyze artifacts from `.git` folders inadvertently exposed on web servers.\
 <br/>

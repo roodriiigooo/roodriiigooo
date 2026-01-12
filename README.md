@@ -155,13 +155,14 @@ Featured Projects: PRIVATE
 
 ## Projects +
 
+
 <br/>
 
 <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER/releases/latest">
     <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/GITLEAK_EXPLORER?style=for-the-badge&color=blue" alt="GITLEAK EXPLORER latest release">
 </a>
 <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER">
-	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://private-user-images.githubusercontent.com/5695737/530216408-5f032547-9480-4ea6-ad1e-565119a738c9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2NzkxMzksIm5iZiI6MTc2NjY3ODgzOSwicGF0aCI6Ii81Njk1NzM3LzUzMDIxNjQwOC01ZjAzMjU0Ny05NDgwLTRlYTYtYWQxZS01NjUxMTlhNzM4YzkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMjVUMTYwNzE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjQ1Njc5YzhmZmYwYWRhNGE4YTk5ZGJjMGM3NTg1ZjIwMWJlNmMyMDY4NDE1Nzk3MWUzNTA2N2U3ZjE0NWQxMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-cYFdNuAy-hoFWUO-BghxV-0H8hcp41fHMyiG2zdwDY"/>
+	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://github.com/user-attachments/assets/d4bb5684-22e1-432b-9289-1624de0e3080"/>
 </a>
 
 

@@ -25,7 +25,7 @@
 
 
 ## 🎯 About Me
-Professional with over 8 years of experience in full stack development, data science, and information security. Specialist in creating and optimizing integrations for e-commerce and marketplaces, working on the development of scalable and secure solutions. Strong background in DevOps and Cloud Computing (AWS). Passionate about technology, continuous learning, and innovation.
+Professional with over 10 years of experience in full stack development, data science, and information security. Specialist in creating and optimizing integrations for e-commerce and marketplaces, working on the development of scalable and secure solutions. Strong background in DevOps and Cloud Computing (AWS). Passionate about technology, continuous learning, and innovation.
 
 
 ## 💻 Technical Skills - Key Competencies

@@ -160,7 +160,7 @@ Featured Projects: PRIVATE
 
 
 <a href="https://github.com/roodriiigooo/GITLEAK_EXPLORER">
-	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://github.com/user-attachments/assets/6708e156-e86e-4308-a24c-ade269316d31"/>
+	<img align="left" height="94px" width="94px" alt="GITLEAK EXPLORER" src="https://github.com/user-attachments/assets/5d55cf85-2c92-48cb-8c4e-8f44c168a381"/>
 </a>
 
 
@@ -192,7 +192,7 @@ Featured Projects: PRIVATE
 **Description**: A simple page, written in React and exported as a static page to be hosted on GitHub Pages, contains a hidden easter egg that goes beyond what the page initially proposes. Written primarily in React (TypeScript) and JavaScript.\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="rodrigo.londrina.br" src="https://storage.googleapis.com/creatorspace-public/users%2Fcm5z90w7901ebi601bqu49nt7%2FNSUt75wHrejLFse0-IMG_20250116_090612.jpg?w=750&h=750"/>](https://github.com/roodriiigooo/NAO_PERTURBE)
+[<img align="left" height="94px" width="94px" alt="rodrigo.londrina.br" src="https://github.com/user-attachments/assets/b3326fd3-45c3-4570-9841-103c3e293591"/>](https://github.com/roodriiigooo/NAO_PERTURBE)
 
 **Interrupting Bluetooth Communications Using a Low-Cost Device** \
 [**Study**](https://github.com/roodriiigooo/NAO_PERTURBE) • **Techs/Frameworks**: `Arduino`, `C`, `C++`, and others\

@@ -153,7 +153,7 @@ Featured Projects: PRIVATE
 - UTFPR extension program focused on learning through games and Escape Rooms.
 - Development of Escape Rooms and tools to analyze the educational impact on participants.
 
-## Projects +
+## Projects (Code) +
 
 
 <br/>

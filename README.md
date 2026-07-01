@@ -6,10 +6,8 @@
 #### Senior Full Stack Developer | Data Scientist | Cybersec | 📧 roh.amelo@gmail.com | 🌐 [rodrigo.londrina.br](https://rodrigo.londrina.br) | 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigooo) | 📍 Paraná, Brazil  
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
 <a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank">
+	<a href="https://www.linkedin.com/in/roodriiigooo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Rodrigo's Linkedin" target="_blank"></a>
 	<img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
-<a href="https://www.linkedin.com/in/roodriiigooo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Rodrigo's Linkedin" target="_blank"></a>
-  	<a href="https://gitlab.com/roodriiigooo" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" alt="Rodrigo's Gitlab"></a> 
-     	<a href="https://www.hackerrank.com/rodrigomelo" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%eab676?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="Rodrigo's Hackerrank" target="_blank"></a> 
   	<a href="https://rodrigo.londrina.br" target="_blank"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Website"></a>
   	<a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" target="_blank"></a> 
 
@@ -138,11 +136,7 @@ Featured Projects: PRIVATE
 - 📚 **Defensive Security – Blue Team Operations** | Faculdade VINCIT (2023)
 
 
-## 🔥 Highlights & Projects
-
-### 📌 LUDICO - Laboratório Universitário de Desenvolvimento de Inteligências e Cognições
-- UTFPR extension program focused on learning through games and Escape Rooms.
-- Development of Escape Rooms and tools to analyze the educational impact on participants.
+## 🔥 Highlights & (Side)Projects
 
 ### 📌 Marketplace Integration Automation
 - Created automated scripts for product and order updates.
@@ -152,6 +146,12 @@ Featured Projects: PRIVATE
 - Implemented pentesting practices to identify and mitigate risks.
 - Trained teams on security best practices.
 
+### 📌 Development of hardware and software for healthcare
+- Initiated with the goal of enabling communication for critically impaired individuals using minimal muscle movement through low-cost hardware such as Arduino and Raspberry Pi microcontrollers, displays, audio alerts, and sensors.
+
+### 📌 LUDICO - Laboratório Universitário de Desenvolvimento de Inteligências e Cognições
+- UTFPR extension program focused on learning through games and Escape Rooms.
+- Development of Escape Rooms and tools to analyze the educational impact on participants.
 
 ## Projects +
 

@@ -188,7 +188,7 @@ Featured Projects: PRIVATE
 
 [<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://github.com/user-attachments/assets/42073149-ec13-43ea-8a65-f8fff4d57f21"/>](https://github.com/roodriiigooo/InsurancePlatform)
 
-**InsurancePlatform** \
+**Insurance Platform** \
 [**Project**](https://github.com/roodriiigooo/InsurancePlatform) • **Techs/Frameworks**: `Microservices`, `Hexagonal Architecture`, `CQRS`, `UnitTests`, `Github Actions`, `Docker`, `AWS`, `Azure` and others. **Description**: Implementation of a simplified and robust platform based on Microservices, DDD, Hexagonal Architecture, and CQRS. This repository is written predominantly in .NET and Docker, and includes workflow examples for consuming both Azure and AWS services.\
 <br/>
 

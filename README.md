@@ -171,6 +171,21 @@ Featured Projects: PRIVATE
 **Description**: An all-in-one tool designed for security researchers and system administrators. It allows you to identify, download, reconstruct, and analyze artifacts from `.git` folders inadvertently exposed on web servers.\
 <br/>
 
+
+
+<a href="https://github.com/roodriiigooo/OPEN_RPG_MAP_EDITOR">
+	<img align="left" height="94px" width="94px" alt="OPEN_RPG_MAP_EDITOR" src="https://github.com/user-attachments/assets/b1e70f46-ffc2-44b7-8d81-c9d169f3049d"/>
+</a>
+
+
+**OPEN RPG MAP EDITOR (WIP)** <a href="https://github.com/roodriiigooo/OPEN_RPG_MAP_EDITOR/releases/latest">
+    <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/OPEN_RPG_MAP_EDITOR?style=for-the-badge&color=blue" alt="OPEN_RPG_MAP_EDITOR latest release">
+</a> \
+[**Tool/Project**](https://github.com/roodriiigooo/OPEN_RPG_MAP_EDITOR) • **Techs/Frameworks**: `React`, `Typescript` <br> 
+**Description**: is a "work in progress" professional modular map editor for tabletop RPGs (like D&D and Vampire: The Masquerade) that features a complete infrastructure for asset management, printing and map exporting.\
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="Insurance Platform" src="https://github.com/user-attachments/assets/42073149-ec13-43ea-8a65-f8fff4d57f21"/>](https://github.com/roodriiigooo/InsurancePlatform)
 
 **InsurancePlatform** \

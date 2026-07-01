@@ -217,11 +217,17 @@ Featured Projects: PRIVATE
 <br/>
 
 
+[<img align="left" height="94px" width="94px" alt="FluxoMidia" src="https://github.com/user-attachments/assets/bc67be11-93a5-4821-ae59-54839c70e2a9"/>](https://github.com/roodriiigooo/FLUXOMIDIA)
+
+**FluxoMidia** \
+[**Project**](https://github.com/roodriiigooo/FLUXOMIDIA) • **Techs/Frameworks**: `C# / .NET 8, ASP.NET Core Web API`, `Blazor WebAssembly`, `Entity Framework Core (Read)`, `Dapper (Write)`, `RabbitMQ`, `JWT (JSON Web Tokens)`,  `BCrypt hashing`, `Microservices`, `Event-Driven`, `Backend for Frontend (BFF)`, `Hexagonal Architecture`, `CQRS`, `UnitTests`, `Github Actions`, `Docker`, `AWS`, `Azure` and others.\
+**Description**: It is a distributed and scalable platform designed to orchestrate the processing, transcription, and distribution of media files (video and audio). The system enables the upload of raw media files, asynchronous background processing (transcoding, audio extraction, and subtitle generation), and automatic publishing to external channels, all supported by an internal monetization system based on credits and vouchers.\
+<br/>
+
 
 <a href="https://github.com/roodriiigooo/OPEN_RPG_MAP_EDITOR">
 	<img align="left" height="94px" width="94px" alt="OPEN_RPG_MAP_EDITOR" src="https://github.com/user-attachments/assets/b1e70f46-ffc2-44b7-8d81-c9d169f3049d"/>
 </a>
-
 
 **OPEN RPG MAP EDITOR (WIP)** <a href="https://github.com/roodriiigooo/OPEN_RPG_MAP_EDITOR/releases/latest">
     <img height="94px" width="94px" src="https://img.shields.io/github/v/release/roodriiigooo/OPEN_RPG_MAP_EDITOR?style=for-the-badge&color=blue" alt="OPEN_RPG_MAP_EDITOR latest release">

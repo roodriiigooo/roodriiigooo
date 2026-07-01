@@ -55,19 +55,13 @@ Featured Projects: PRIVATE
 <details>
 	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
- - Development and maintenance of marketplace integrations, ensuring high efficiency and scalability.
-
-- Architecture and optimization of REST APIs, implementing security and performance best practices.
-
-- CI/CD automation with GitHub Actions, ensuring continuous delivery.
-
-- Git repository management using GitFlow for efficient version control.
-
-- Detailed technical documentation of architectures and API specifications.
-
-- Implementation of scalable solutions using .NET Core, React, and AWS.
-
-- Development of performance monitoring processes and continuous improvement of the platform.
+	- Development and maintenance of marketplace integrations, ensuring high efficiency and scalability.
+	- Architecture and optimization of REST APIs, implementing security and performance best practices.
+	- CI/CD automation with GitHub Actions, ensuring continuous delivery.
+	- Git repository management using GitFlow for efficient version control.
+	- Detailed technical documentation of architectures and API specifications.
+	- Implementation of scalable solutions using .NET Core, React, and AWS.
+	- Development of performance monitoring processes and continuous improvement of the platform.
 
 
 </br>
@@ -86,15 +80,11 @@ Featured Projects: PRIVATE
 <details>
 	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
- - Web application development with Java (Spring Boot, JSF), Angular, and React.
-
-- Migration of legacy systems to modern technologies, reducing operational costs.
-
-- Creation of dashboards and interactive reports for data analysis.
-
-- Implementation of security standards and best practices in critical applications.
-
-- Collaboration with multidisciplinary teams to optimize internal processes and workflows.
+	- Web application development with Java (Spring Boot, JSF), Angular, and React.
+	- Migration of legacy systems to modern technologies, reducing operational costs.
+	- Creation of dashboards and interactive reports for data analysis.
+	- Implementation of security standards and best practices in critical applications.
+	- Collaboration with multidisciplinary teams to optimize internal processes and workflows.
 
 
 </br>
@@ -113,11 +103,9 @@ Featured Projects: PRIVATE
 <details>
 	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
 
- - Development of SEO-optimized, high-performance web systems.
-
-- Implementation of digital marketing strategies through automation and data analysis.
-
-- Maintenance and optimization of existing projects.
+	- Development of SEO-optimized, high-performance web systems.
+	- Implementation of digital marketing strategies through automation and data analysis.
+	- Maintenance and optimization of existing projects.
 
 
 </br>
@@ -125,6 +113,63 @@ Featured Projects: PRIVATE
 
 </details>
 
+
+[<img align="left" height="94px" width="94px" alt="VSM Informatica" src="https://media.licdn.com/dms/image/v2/D4D0BAQF0lF4D_t2rAg/company-logo_200_200/company-logo_200_200/0/1704281293325/vsm_informtica_logo?e=1784764800&v=beta&t=bViSI2oX2BpffxOxr0vCCtAVeUSeFoQ4OgyKBvVZf-k"/>](https://www.linkedin.com/company/vsm-inform%C3%A1tica/)
+
+**Help Desk/Service Desk Agent** \
+[**VSM Informática**](https://www.linkedin.com/company/vsm-inform%C3%A1tica/) • Full-Time \
+Techs/Frameworks:  `Postgres`, `MySql`, `Delphi` and others\
+Featured Projects: PRIVATE
+<br/>
+
+<details>
+	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
+
+	- Provided specialized customer support for VSM systems.
+	- Gathered requirements directly from clients for system improvements and customizations.
+	- Created dynamic reports for clients.
+	- Delivered on-demand training during deployments, updates, and system upgrades.
+	- Offered full technical support, creating detailed procedural documentation and helpful reports to streamline operations and ensure user satisfaction.
+	- Performed direct maintenance on client databases.
+
+
+</br>
+
+
+</details>
+
+
+[<img align="left" height="94px" width="94px" alt="Dibrion Software" src="https://github.com/user-attachments/assets/e7e2f8e4-498f-4b36-848a-86d4554a38b4"/>](https://www.linkedin.com/company/dribionsoftware/)
+
+**Help Desk / Service Desk / Implementation Consultant** \
+[**CDS Informática/Dibrion Software**](https://www.linkedin.com/company/dribionsoftware/) • Full-Time \
+Techs/Frameworks:  `Microsoft SQL Server`, `.Net`, `UML` and others\
+Featured Projects: PRIVATE
+<br/>
+
+<details>
+	<summary>:star: Activities/Problems solved: (Click Here) :triangular_flag_on_post: </summary>
+
+	- Provided specialized customer support for CDSFive and CDSSimco systems.
+	- Carried out system implementations and necessary infrastructure adjustments at client sites.
+	- Conducted on-demand training sessions during implementations, updates, and system enhancements.
+	- Provided comprehensive technical support—including meticulously crafted procedural documentation and insightful reports—to streamline operations and ensure user satisfaction.
+	- Orchestrated server maintenance activities to boost computer and network system performance, meticulously monitoring and optimizing functionality.
+	- Diagnosed and resolved complex hardware and software issues, ensuring efficient problem resolution and minimizing downtime through proactive troubleshooting.
+	- Provided robust technical support, including detailed procedural documentation and insightful reports, to streamline operations and enhance the user experience.
+	- Managed and maintained servers, ensuring high availability and optimal performance through regular updates and proactive monitoring.
+	- Implemented database optimizations and performance-tuning strategies, improving query efficiency and overall system responsiveness.
+	- Performed regular backups and recovery tests to safeguard data integrity and minimize potential data loss risks.
+	- Collaborated with cross-functional teams to deploy and configure new servers and database environments, adhering to best practices and security protocols.
+
+
+</br>
+
+
+</details>
+.
+.
+.
 
 ## 🎓 Education
 - 📚 **Technology in Systems Analysis and Development** - UTFPR (2012 - 2017)

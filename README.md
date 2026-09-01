@@ -114,7 +114,7 @@ Featured Projects: PRIVATE
 </details>
 
 
-[<img align="left" height="94px" width="94px" alt="VSM Informatica" src="https://media.licdn.com/dms/image/v2/D4D0BAQF0lF4D_t2rAg/company-logo_200_200/company-logo_200_200/0/1704281293325/vsm_informtica_logo?e=1784764800&v=beta&t=bViSI2oX2BpffxOxr0vCCtAVeUSeFoQ4OgyKBvVZf-k"/>](https://www.linkedin.com/company/vsm-inform%C3%A1tica/)
+[<img align="left" height="94px" width="94px" alt="VSM Informatica" src="https://github.com/user-attachments/assets/8ad2be31-cde9-4947-9328-720941e75369"/>](https://www.linkedin.com/company/vsm-inform%C3%A1tica/)
 
 **Help Desk/Service Desk Agent** \
 [**VSM Informática**](https://www.linkedin.com/company/vsm-inform%C3%A1tica/) • Full-Time \
